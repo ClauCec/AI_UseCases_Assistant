@@ -1,9 +1,9 @@
 # ML/AI Use Cases RAG Assistant (Bring Your Own Key)
 
-An AI-powered assistant that provides business advice based on real ML/AI implementations from 60+ companies with 400+ use cases. This app uses Retrieval-Augmented Generation (RAG) to find relevant company examples and provides actionable recommendations. The data are collected from https://github.com/mallahyari/ml-practical-usecases and Google's context_utl is used to extract information and generate the summaries and keywords from the articles describing the use cases.
-
 link to hf space:
 https://huggingface.co/spaces/ClaCe/FindHugForPMwithKey
+
+An AI-powered assistant that provides business advice based on real ML/AI implementations from 60+ companies with 400+ use cases. This app uses Retrieval-Augmented Generation (RAG) to find relevant company examples and provides actionable recommendations. The data are collected from https://github.com/mallahyari/ml-practical-usecases and Google's context_utl is used to extract information and generate the summaries and keywords from the articles describing the use cases.
 
 **🔑 Bring Your Own Key:** This version requires users to provide their own HuggingFace API key, ensuring zero cost to the space owner while maintaining full functionality.
 
